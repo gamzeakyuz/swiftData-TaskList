@@ -23,7 +23,7 @@ struct ButtonImageView: View {
                     endPoint: .bottom
                 )
             )
-            .shadow(color: .white.opacity(0.4), radius: 6, x: 0, y: 3)
+            .shadow(color: .gray.opacity(0.8), radius: 6, x: 0, y: 3)
 
     }
 }
