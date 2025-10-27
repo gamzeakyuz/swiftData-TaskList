@@ -20,58 +20,12 @@ Designed for both productivity enthusiasts and iOS learners, this project showca
 	•	💬 Context Menus & Swipe Gestures : Intuitive interactions for managing tasks quickly.
 	•	🪄 Smooth Animations :Empty states, transitions, and sheet presentations enhanced with SwiftUI animations.
 
-🧩 Tech Stack
-
-    Framework                         Purpose
-SwiftUI                         Declarative UI framework
-SwiftData                       Local data persistence
-UserNotifications               Notification scheduling and management
-MVVM Architecture               Code organization
-Xcode 16 / iOS 18 SDK           Development environment  
-
-
 🖼️ Screenshots
 
+![Simulator Screen Recording - iPhone 17 Pro - 2025-10-27 at 19 09 05](https://github.com/user-attachments/assets/bb7342fa-fc8d-4647-b714-b36e22fb667b)
+![Simulator Screen Recording - iPhone 17 Pro - 2025-10-27 at 19 10 21](https://github.com/user-attachments/assets/26e3e1b8-2594-43a6-a0e9-7e99fbb10f29)
 ![Simulator Screen Recording - iPhone 17 Pro - 2025-10-27 at 19 14 48](https://github.com/user-attachments/assets/5ed6663c-b756-43cb-8b58-210d4137f0b7)
 
-
-🧠 Architecture Diagram
-
-+----------------------+
-|      HomeView        |
-|----------------------|
-| - Displays tasks     |
-| - Sorting options     |
-| - Handles sheets      |
-+----------+-----------+
-           |
-           v
-+----------------------+
-|   NewTaskListView    |
-|----------------------|
-| - Add tasks          |
-| - Input validation   |
-| - Uses ModelContext  |
-+----------+-----------+
-           |
-           v
-+----------------------+
-|     Task Model       |
-|----------------------|
-| - title              |
-| - dueDate            |
-| - priority           |
-| - category           |
-| - isCompleted        |
-+----------------------+
-           |
-           v
-+----------------------+
-| NotificationManager  |
-|----------------------|
-| - Schedule/cancel    |
-| - Permission control |
-+----------------------+
 
 
 ⭐️ Support
