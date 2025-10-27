@@ -12,20 +12,13 @@ Designed for both productivity enthusiasts and iOS learners, this project showca
 
 🧩 Features
 
-	•	🆕 Add, Edit & Delete Tasks
-Manage all your tasks with ease and persistent storage via SwiftData.
-	•	⏰ Smart Notifications
-Long-press on any task to schedule or cancel a reminder for its due date.
-	•	🧠 Dynamic Sorting
-Sort by name, priority, or due date directly in the app.
-	•	🏷️ Task Categories & Priority Levels
-Personalize your workflow with categories and urgency tags.
-	•	🎨 Elegant SwiftUI Interface
-A modern, adaptive design that looks great in both Light and Dark modes.
-	•	💬 Context Menus & Swipe Gestures
-Intuitive interactions for managing tasks quickly.
-	•	🪄 Smooth Animations
-Empty states, transitions, and sheet presentations enhanced with SwiftUI animations.
+	•	🆕 Add, Edit & Delete Tasks: Manage all your tasks with ease and persistent storage via SwiftData.
+	•	⏰ Smart Notifications : Long-press on any task to schedule or cancel a reminder for its due date.
+	•	🧠 Dynamic Sorting : Sort by name, priority, or due date directly in the app.
+	•	🏷️ Task Categories & Priority Levels : Personalize your workflow with categories and urgency tags.
+	•	🎨 Elegant SwiftUI Interface : A modern, adaptive design that looks great in both Light and Dark modes.
+	•	💬 Context Menus & Swipe Gestures : Intuitive interactions for managing tasks quickly.
+	•	🪄 Smooth Animations :Empty states, transitions, and sheet presentations enhanced with SwiftUI animations.
 
 🧩 Tech Stack
 
