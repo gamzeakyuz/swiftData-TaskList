@@ -22,9 +22,9 @@ Designed for both productivity enthusiasts and iOS learners, this project showca
 
 🖼️ Screenshots
 
-<img src="https://github.com/user-attachments/assets/bb7342fa-fc8d-4647-b714-b36e22fb667b" width="400">
-<img src="https://github.com/user-attachments/assets/26e3e1b8-2594-43a6-a0e9-7e99fbb10f29" width="400">
-<img src="https://github.com/user-attachments/assets/5ed6663c-b756-43cb-8b58-210d4137f0b7" width="400">
+<img src="https://github.com/user-attachments/assets/bb7342fa-fc8d-4647-b714-b36e22fb667b" width="300">
+<img src="https://github.com/user-attachments/assets/26e3e1b8-2594-43a6-a0e9-7e99fbb10f29" width="300">
+<img src="https://github.com/user-attachments/assets/5ed6663c-b756-43cb-8b58-210d4137f0b7" width="300">
 
 
 
