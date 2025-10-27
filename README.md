@@ -22,9 +22,9 @@ Designed for both productivity enthusiasts and iOS learners, this project showca
 
 🖼️ Screenshots
 
-![Simulator Screen Recording - iPhone 17 Pro - 2025-10-27 at 19 09 05](https://github.com/user-attachments/assets/bb7342fa-fc8d-4647-b714-b36e22fb667b)
-![Simulator Screen Recording - iPhone 17 Pro - 2025-10-27 at 19 10 21](https://github.com/user-attachments/assets/26e3e1b8-2594-43a6-a0e9-7e99fbb10f29)
-![Simulator Screen Recording - iPhone 17 Pro - 2025-10-27 at 19 14 48](https://github.com/user-attachments/assets/5ed6663c-b756-43cb-8b58-210d4137f0b7)
+<img src="https://github.com/user-attachments/assets/bb7342fa-fc8d-4647-b714-b36e22fb667b" width="400">
+<img src="https://github.com/user-attachments/assets/26e3e1b8-2594-43a6-a0e9-7e99fbb10f29" width="400">
+<img src="https://github.com/user-attachments/assets/5ed6663c-b756-43cb-8b58-210d4137f0b7" width="400">
 
 
 
