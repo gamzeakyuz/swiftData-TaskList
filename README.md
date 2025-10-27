@@ -9,22 +9,21 @@ Designed for both productivity enthusiasts and iOS learners, this project showca
 
 
 ⸻
+## 🌟 Features
 
-🧩 Features
-
-	•	🆕 Add, Edit & Delete Tasks: Manage all your tasks with ease and persistent storage via SwiftData.
-	•	⏰ Smart Notifications : Long-press on any task to schedule or cancel a reminder for its due date.
-	•	🧠 Dynamic Sorting : Sort by name, priority, or due date directly in the app.
-	•	🏷️ Task Categories & Priority Levels : Personalize your workflow with categories and urgency tags.
-	•	🎨 Elegant SwiftUI Interface : A modern, adaptive design that looks great in both Light and Dark modes.
-	•	💬 Context Menus & Swipe Gestures : Intuitive interactions for managing tasks quickly.
-	•	🪄 Smooth Animations :Empty states, transitions, and sheet presentations enhanced with SwiftUI animations.
+> ✅ **Add, Edit & Delete Tasks** — Manage all your tasks with ease and persistent storage via SwiftData.  
+> 🔔 **Smart Notifications** — Long-press any task to schedule or cancel reminders based on due dates.  
+> 📅 **Dynamic Sorting** — Sort tasks by name, priority, or due date directly within the app.  
+> 🏷️ **Task Categories & Priority Levels** — Organize your workflow with custom tags and urgency indicators.  
+> 🎨 **Elegant SwiftUI Interface** — A clean, modern design that looks great in both Light & Dark Mode.  
+> 🤝 **Context Menus & Swipe Gestures** — Intuitive and efficient interactions for quick task management.  
+> 💫 **Smooth Animations** — Empty states, transitions, and sheet presentations powered by SwiftUI animations.
 
 🖼️ Screenshots
 <div align="center">
-<img src="https://github.com/user-attachments/assets/bb7342fa-fc8d-4647-b714-b36e22fb667b" width="300">
-<img src="https://github.com/user-attachments/assets/26e3e1b8-2594-43a6-a0e9-7e99fbb10f29" width="300">
-<img src="https://github.com/user-attachments/assets/5ed6663c-b756-43cb-8b58-210d4137f0b7" width="300">
+<img src="https://github.com/user-attachments/assets/bb7342fa-fc8d-4647-b714-b36e22fb667b" width="250">
+<img src="https://github.com/user-attachments/assets/26e3e1b8-2594-43a6-a0e9-7e99fbb10f29" width="250">
+<img src="https://github.com/user-attachments/assets/5ed6663c-b756-43cb-8b58-210d4137f0b7" width="250">
 </div>
 
 
