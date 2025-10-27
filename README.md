@@ -11,7 +11,7 @@ Designed for both productivity enthusiasts and iOS learners, this project showca
 ⸻
 <div style="background-color:rgba(255,255,255,0.1); padding:15px; border-radius:10px;">
 
-✅ **Add, Edit & Delete Tasks** — Manage tasks easily via SwiftData.<br>
+✅ **Add,Delete Tasks** — Manage tasks easily via SwiftData.<br>
 🔔 **Smart Notifications** — Long-press tasks to schedule or cancel reminders.<br>
 🎨 **Elegant SwiftUI Interface** — Clean design for both Light & Dark Mode.<br>
 💫 **Smooth Animations** — Empty states and transitions made with SwiftUI.<br>
